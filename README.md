@@ -10,12 +10,12 @@ It serves as a central workspace for source code, documentation, collaboration, 
 - Track progress and contributions transparently
 
 ## Members
-| Name | GitHub Username | Role |
-|-----|----------------|------|
-| Kumarapeli K. A. D. D. B. | Dish-K | Member |
-| M A H Jayashanka | hiruvindajayashanka2001 | Member |
-| Ravindu Thiranjaya | ravindu422 | Owner |
-| Thimeth Sathmika | Thimeth0013 | Member |
+| Name | GitHub Username
+|-----|----------------
+| Kumarapeli K. A. D. D. B. | Dish-K
+| M A H Jayashanka | hiruvindajayashanka2001
+| Ravindu Thiranjaya | ravindu422
+| Thimeth Sathmika | Thimeth0013
 
 ## Repository Guidelines
 - Each project must have its own repository
